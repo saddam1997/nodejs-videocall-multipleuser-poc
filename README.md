@@ -106,4 +106,8 @@ testChannelPresence('default-channel');
 
 # License
 
-[Socket.io over Node.js](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/socketio-over-nodejs) is released under [MIT licence](https://www.webrtc-experiment.com/licence/) . Copyright (c) [Muaz Khan](https://MuazKhan.com).
+
+
+
+
+asdfasfdasdf
